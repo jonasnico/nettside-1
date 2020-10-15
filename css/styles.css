@@ -1,5 +1,11 @@
 body {
   background-color: #F5F5DC;
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  padding: 20px;
 }
 
 ul {
@@ -36,4 +42,11 @@ li a:hover {
 }
 
 .bgimg {
+  padding: 10px;
+
+}
+
+.idea-img {
+  padding: 20px;
+
 }
