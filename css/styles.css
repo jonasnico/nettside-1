@@ -8,22 +8,26 @@ body {
   padding: 0;
 }
 
+.nav-links{
+  font-size: 1.3em;
+}
+
 .intro {
   padding: 20px;
 }
-
+/*Changed text position in relation to buttons*/
 .title{
   color: #fff;
-  font-size: larger;
+  font-size: 1em;
   position: absolute;
-  top: 57%;
+  top: 56%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
 
 .button{
   position: absolute;
-  top: 62%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
@@ -89,13 +93,13 @@ li a:hover {
   text-align: center;
   text-decoration: underline;
 }
-
+/*Changed padding according to feedback*/
 .bgimg {
   padding: 10px;
 }
 
 .idea-img {
-  padding: 20px;
+  padding: 10px;
 }
 
 .articles {
